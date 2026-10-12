@@ -18,7 +18,7 @@ Four tools, available to Claude as `mcp__screenshot__*`:
 Requires: macOS 12.3+ (ScreenCaptureKit), Xcode Command Line Tools (`xcode-select --install`), Node 18+, and the `claude` CLI.
 
 ```bash
-git clone https://github.com/<you>/claude-mac-screenshot-mcp.git
+git clone https://github.com/Lems00/claude-mac-screenshot-mcp.git
 cd claude-mac-screenshot-mcp
 npm install
 npm run build
