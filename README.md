@@ -4,6 +4,12 @@ Give [Claude Code](https://claude.com/claude-code) real eyes on your Mac: a smal
 
 Built the hard way, through a very long trial-and-error session on a real machine (an old-ish MacBook Pro on Monterey). This README documents every dead end so you don't have to hit them again — especially if you're a "VibeCoder" running Claude Code on an older Mac, where these permission quirks are extremely common.
 
+<p align="center">
+  <img src="docs/demo-capture.png" alt="Example: capture_app_window capturing the Calculator app by name" width="300">
+  <br>
+  <sub>Real output of <code>capture_app_window</code> targeting "calculette" — no click, no Accessibility.</sub>
+</p>
+
 ## What you get
 
 Four tools, available to Claude as `mcp__screenshot__*`:

@@ -4,3 +4,4 @@ list_windows
 capture_window
 CaptureWindow.app/
 *.png
+!docs/*.png
