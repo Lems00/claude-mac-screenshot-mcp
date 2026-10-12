@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+list_windows
+capture_window
+CaptureWindow.app/
+*.png
